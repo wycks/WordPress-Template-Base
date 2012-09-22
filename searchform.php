@@ -2,7 +2,7 @@
 /**
  * The template for displaying search forms in Twenty Eleven
  *
-  * @package WordPress
+ * @package WordPress
  * @subpackage theme_name
  * @since theme_version
  */

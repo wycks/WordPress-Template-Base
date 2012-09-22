@@ -4,7 +4,3 @@
 * @subpackage theme_name
 * @since theme_version
 */
-
-
-
-
