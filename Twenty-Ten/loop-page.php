@@ -1,6 +1,6 @@
 <?php
 /**
- * The template for displaying all pages.
+ * The template for displaying all pages in he loop.
  *
  * This is the template that displays all pages by default.
  * Please note that this is the WordPress construct of pages

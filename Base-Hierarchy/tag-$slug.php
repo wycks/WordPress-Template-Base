@@ -1,6 +1,6 @@
 <?php
 /**
- * The Template for displaying all single posts.
+ * The template for displaying tag-$slug posts.
  *
  * @package WordPress
  * @subpackage theme_name

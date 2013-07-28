@@ -1,6 +1,6 @@
 <?php
 /**
- * The Template for displaying all single posts.
+ * The template for displaying taxonomy-$taxonomy-$term posts.
  *
  * @package WordPress
  * @subpackage theme_name

@@ -1,6 +1,6 @@
 <?php
 /**
- * The Footer widget areas.
+ * A widget area.
  *
  * @package WordPress
  * @subpackage theme_name

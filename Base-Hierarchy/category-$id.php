@@ -1,7 +1,7 @@
 <?php
 /**
- * The Template for displaying all single posts.
- *
+ * The template for displaying category-$id pages
+ * 
  * @package WordPress
  * @subpackage theme_name
  * @since theme_version

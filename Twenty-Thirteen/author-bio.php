@@ -1,6 +1,6 @@
 <?php
 /**
- * The template for displaying Author Archive pages.
+ * The template for displaying Author Bio Archive pages.
  *
  * @package WordPress
  * @subpackage theme_name

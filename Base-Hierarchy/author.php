@@ -1,9 +1,8 @@
 <?php
 /**
- * The template for displaying Archive pages.
+ * The template for displaying Author pages.
  *
- * Used to display archive-type pages if nothing more specific matches a query.
- * For example, puts together date-based pages if no date.php file exists.
+ * Used to display Author pages if nothing more specific matches a query.
  *
  * Learn more: http://codex.wordpress.org/Template_Hierarchy
  *

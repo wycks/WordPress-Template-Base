@@ -1,6 +1,6 @@
 <?php
 /**
- * The template for displaying posts in the Aside Post Format on index and archive pages
+ * The template for displaying posts in the Audio Post Format on index and archive pages
  *
  * Learn more: http://codex.wordpress.org/Post_Formats
  *
