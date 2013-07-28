@@ -3,10 +3,10 @@ WordPress-Template-Base
 
 WordPress theme file structure base, no code, just the files to start a WordPress theme from scratch.
 
-True bare bones, start from scatch with just the template strcuture and some minimal info.
+True bare bones.
 
 Contains: 
-* Base-Hierarchy  - based on template WP template hierarchy
+* Base-Hierarchy  - based on the WP template hierarchy
 * Twentyten
 * Twentyevelen
 * Twentytwelve
